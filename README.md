@@ -1,4 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
+Santiago Duque, 202021020, s.duque5@uniandes.edu.co
+Nicolas Guerrero, 201731839, nd.guerrero@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
